@@ -7,3 +7,4 @@ c = "Kashif" # c is a string
 d = True # d is a boolean variable
 
 e = None # e is a nune type variable
+print ("Value of c:", c)
